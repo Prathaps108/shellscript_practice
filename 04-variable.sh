@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Arguments
-P1=$1
+p1=$1
 p2=$2
 
 echo "$p1:: welcome to singapore $p2"
