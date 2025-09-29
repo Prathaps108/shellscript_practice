@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#Arguments
+P1=$1
+p2=$2
+
+echo "$p1:: welcome to singapore $p2"
+echo "$p2:: Thank you, Finally reached"
+echo "$p1:: So, do we have a deal"
+echo "$p2:: yes we ahve big deal"
